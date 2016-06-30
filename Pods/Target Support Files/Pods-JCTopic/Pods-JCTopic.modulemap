@@ -1,0 +1,6 @@
+framework module Pods_JCTopic {
+  umbrella header "Pods-JCTopic-umbrella.h"
+
+  export *
+  module * { export * }
+}
